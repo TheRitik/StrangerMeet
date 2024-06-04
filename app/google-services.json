@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470300594357",
+    "project_id": "strangermeet-c846d",
+    "storage_bucket": "strangermeet-c846d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470300594357:android:c5b92bb3c3574635c7aefc",
+        "android_client_info": {
+          "package_name": "com.example.strangermeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2G1U79l9GWHypxwPZIGYyItGVfKWr38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
